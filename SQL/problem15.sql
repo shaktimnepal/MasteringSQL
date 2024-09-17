@@ -1,3 +1,6 @@
+Problem Statement:
+
+Inner Join
 Product Sales Analysis I
 
 Table: Sales
