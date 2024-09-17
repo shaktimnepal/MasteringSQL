@@ -1,3 +1,6 @@
+Problem Statement:
+
+Big Countries
 Table: World
 
 +-------------+---------+
