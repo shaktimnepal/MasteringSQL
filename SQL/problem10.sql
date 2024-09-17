@@ -1,3 +1,6 @@
+Problem Statement:
+
+Recyclable and low fat products
 Table: Products
 
 +-------------+---------+
