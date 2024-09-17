@@ -1,3 +1,6 @@
+Problem Statement:
+
+Combine Two Tables
 Table: Person
 
 +-------------+---------+
