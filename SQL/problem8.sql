@@ -1,3 +1,6 @@
+Problem Statement:
+
+Employees earning more than their manager
 Table: Employee
 
 +-------------+---------+
