@@ -1,3 +1,6 @@
+Problem Statement:
+
+Invalid tweets
 Table: Tweets
 
 +----------------+---------+
